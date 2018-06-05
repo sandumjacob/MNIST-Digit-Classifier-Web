@@ -7,6 +7,6 @@ public class MNISTClassifier {
     }
 
     public int classifyImage() {
-        return
+        return 0;
     }
 }
